@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Behavior Trees/Behavior Trees.iml" filepath="$PROJECT_DIR$/Behavior Trees/Behavior Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dreambot Behavior Trees.iml" filepath="$PROJECT_DIR$/Dreambot Behavior Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dreambot Examples/Dreambot Examples.iml" filepath="$PROJECT_DIR$/Dreambot Examples/Dreambot Examples.iml" />
+    </modules>
+  </component>
+</project>
